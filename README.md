@@ -39,5 +39,5 @@ You must **edit `Restore Res.bat` manually** and write your original resolution 
 ---
 
 ## 🧠 Credits
-Made with 🤘 by **Dark Aspect**
+Made with by **Dark Aspect**
 > This project includes [nircmd.exe](https://www.nirsoft.net/utils/nircmd.html), a free utility by Nir Sofer (NirSoft). Full credit goes to the original developer.
