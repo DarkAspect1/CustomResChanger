@@ -1,6 +1,3 @@
-# CustomResChanger
-Custom screen resolution changer for Windows using a batch script and NirCmd. Works on any PC, with support for ultra-low, standard, high, and custom resolutions.
-
 # Resolution Changer - Dark Aspect Edition
 
 A simple and fast batch script to switch screen resolutions using [nircmd.exe](https://www.nirsoft.net/utils/nircmd.html). Works on any PC — from retro low-end laptops to modern high-res desktops. Ideal for gaming, performance boosting, or quick resolution toggling.
