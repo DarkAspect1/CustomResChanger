@@ -8,6 +8,7 @@ A simple and fast batch script to switch screen resolutions using [nircmd.exe](h
 1. Download [`nircmd.exe`](https://www.nirsoft.net/utils/nircmd.html) and place it in the same folder as the script.
 2. Run `ResolutionChanger.bat`.
 3. Select a resolution from the list or enter your own using option `99`.
+4. Run `Restore Res.bat` to restore your original resolution
 
 ---
 
