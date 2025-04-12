@@ -1,4 +1,4 @@
-# Resolution Changer - Dark Aspect Edition
+# Resolution Changer - Dark Aspect
 
 A simple and fast batch script to switch screen resolutions using [nircmd.exe](https://www.nirsoft.net/utils/nircmd.html). Works on any PC — from retro low-end laptops to modern high-res desktops. Ideal for gaming, performance boosting, or quick resolution toggling.
 
