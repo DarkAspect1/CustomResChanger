@@ -16,13 +16,13 @@ A simple and fast batch script to switch screen resolutions using [nircmd.exe](h
 - 📺 **Supports 20+ built-in resolutions** (320x200 to 4K)
 - ✍️ **Custom resolution input** (width & height)
 - ⚡ **Instant resolution switch** with one keypress
-- 💾 **No installation required** – just run the `.bat` file
+- 💾 **No installation required** – just run the `CustomResChanger.bat` file
 - 🪶 **Lightweight and portable** 
 - 🧠 **No registry edits or admin rights required**
 - 🕹️ **Great for gaming, retro emulation, or quick tests**
 - 💻 **Works on any Windows PC** (low-end, mid, or high-spec)
 - 🗃️ **Simple, clean, and readable source code**
-- 🔄 **Reset to original res by rerunning and choosing it again Or by Running the "Restore Res' script**
+- 🔄 **Reset to original res** by Running the `Restore Res.bat` file
 
 ---
 
