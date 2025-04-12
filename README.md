@@ -32,11 +32,6 @@ A simple and fast batch script to switch screen resolutions using [nircmd.exe](h
 
 ---
 
-## 📷 Screenshot
-*(Optional: add a screenshot of the batch UI here)*
-
----
-
 ## 🧠 Credits
 Made with 🤘 by **Dark Aspect**
 > This project includes [nircmd.exe](https://www.nirsoft.net/utils/nircmd.html), a free utility by Nir Sofer (NirSoft). Full credit goes to the original developer.
